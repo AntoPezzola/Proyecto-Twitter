@@ -1,0 +1,116 @@
+.busqueda {
+  display: flex;
+  align-content: flex-end;
+}
+
+.buttons-User {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons-userHome {
+  margin-top: 30px;
+}
+
+.user{
+  background-color:rgb(15, 25, 34);
+  min-height: 100vh;
+}
+
+.img-user img{
+  width: 42%;
+  height: 300px;
+  margin-left: 28%;
+  border-radius: 3%;
+  margin-top: -48px;
+  
+}
+
+.img-perfil {
+  margin-top: -164px;
+}
+
+
+.img-perfil img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid rgb(15, 25, 34);
+
+}
+
+.info-Perfil{
+  text-align: center;
+ }
+
+
+ .seguir{
+  border: none;
+   background-color:rgb(21, 32, 43);
+   color: aliceblue;
+   border-radius: 32px;
+   height: 36px;
+   width: 140px;
+}
+
+.button-seguir{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30%;
+  margin-top: 60px;
+}
+
+.followers{
+  color:  aliceblue;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.followers-length{
+  display: inline-block;
+  font-Weight: bold
+}
+
+.following-length {
+  display: inline-block;
+  font-Weight: bold
+}
+
+.following{
+  color:  aliceblue;
+  margin-top: 10px;
+}
+
+.username-perfil{
+  color: aliceblue;
+
+}
+
+.tweetsUsuario{
+  margin-top: 5%;
+  
+}
+
+.follow-container{
+display: flex;
+margin-left: 42%;
+}
+
+
+.horizontal-line {
+  border: none;
+  border-top: 2px solid #a467c1; 
+  margin-left: 28%;
+  margin-right: 28%;
+  
+}
+
+.buttonsHome-perfil{
+  display: flex;
+  flex-direction: column;
+  margin-top: -200px;
+
+}
+

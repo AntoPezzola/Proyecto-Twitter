@@ -1,0 +1,21 @@
+.trending{
+    background-color:rgb(15, 25, 34);
+    min-height: 100vh;
+}
+
+.titulo-trending{
+    color: #e5ebf1;
+    margin-top: -40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.buttons-Trending{
+    margin-top: -120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.button-Logout {
+    margin-top: 10px;
+}

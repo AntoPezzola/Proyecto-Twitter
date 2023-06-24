@@ -1,0 +1,94 @@
+.inicioSesion{
+  background-color:rgb(15, 25, 34);
+  min-height: 100vh;
+}
+
+.imagen {
+  margin-left: 45%;
+  margin-right: 45%;
+  display: block;
+  margin-block-end: 1%;
+  width: 100px;
+  height: auto; 
+  padding: 50px;
+ 
+}
+
+.usuario{
+  font-size: 18px;
+  margin-bottom: 4px;
+  color: rgb(158, 54, 158);
+}
+
+.contraseña{
+  font-size: 18px;
+  margin-bottom: 4px;
+  color: rgb(158, 54, 158)
+}
+
+.form-contraseña{
+  border-radius: 32px;
+  margin-bottom: 10px;
+  height: 46px;
+}
+
+.form-usuario{
+  border-radius: 32px;
+  margin-bottom: 10px;
+  height: 46px;
+}
+
+.buttonIniciarSesion{
+  border-radius: 32px;
+  height: 48px;
+  width: 160px;
+  margin-bottom: 10px;
+  margin-top: 2px;
+  border-color: rgb(82, 39, 82);
+  background-color: rgb(82, 39, 82);
+  
+
+}
+
+.buttonIniciarSesion:hover{
+  opacity: 0.5;
+  border-color: rgb(82, 39, 82);
+  background-color: rgb(82, 39, 82);
+
+}
+
+
+.link {
+  color: rgb(158, 54, 158);
+  border-color: rgb(82, 39, 82);
+  padding: 1em;
+  margin-top: -30px;
+
+}
+
+.link:hover {
+  opacity: 0.5;
+  color: rgb(158, 54, 158);
+  border-color: rgb(82, 39, 82);
+}
+
+
+
+.form-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 35%;
+  background-color: rgb(21, 32, 43);
+  padding: 20px 30px;
+  border-radius: 32px;
+  border-color: rgb(82, 39, 82);
+  text-align: center;
+  margin-top: -20px;
+
+}
+
+
+
+

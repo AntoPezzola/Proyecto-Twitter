@@ -1,0 +1,191 @@
+.boxTw {
+background-color:  #15202B;
+color:  #e5ebf1;
+border-radius: 2%;
+border-style: ridge;
+border-color: #293e53;
+max-width: 480px;
+margin: 0 auto;
+margin-bottom: 15px;
+}
+
+.usuario img {
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.usuario button {
+    border: none;
+    background-color:  #15202B;
+    margin-top: 6px;
+    display: inline-block;
+  }
+
+.imagenUser{
+    display: flex;
+    flex-direction: row;
+    color:  #e5ebf1;
+ }
+
+
+.content{
+    margin-left: 10px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.image img{
+    border-radius: 20px;
+    width: 60%;
+    height: 40%
+
+}
+
+.retweet{
+  background-color:   #15202B;
+  color:#a467c1;
+  border-radius: 32px;
+  font-weight: bold;
+  border: none;
+}
+
+.retweet img{
+  width: 32px;
+  height: 32px;
+}
+
+.rtw{
+  background-color: #15202B;
+  color: #a467c1;
+  font-weight: bold;
+  border: none;
+}
+
+.rtw img {
+  background-color:  #15202B;
+  width: 32px;
+  height: 32px;
+}
+
+.like-corazon button {
+    border: none;
+    font-weight: bold;
+    color:#a467c1;
+    background-color: #15202B;
+  }
+
+.replies{
+    border: none;
+    float: left;
+    font-weight: bold;
+    color: #a467c1;
+    background-color:  #15202B;
+}
+
+.replies img {
+  width: 30%; 
+  height: 40%
+}
+
+.likes button {
+    background-color:  #15202B;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .likes button img, 
+  .replies button img, 
+  .rtw  button img{
+    background-color: #15202B;
+    width: 25px;
+    height: 25px;
+}
+
+.replies img{
+    background-color: #15202B;
+    width: 20px;
+    height: 20px;
+}
+
+.date{
+    font-size: 12px;
+    color: #e5ebf1;
+    margin-left: 10px;
+
+}
+
+  .imagenUser {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .imagenUser img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-color: rgb(15, 25, 34);
+  }
+  
+  .username {
+    font-Weight: bold
+  }
+
+.imagenUser img {
+  width: 50px; 
+  height: 50px;
+  margin-right: 10px; 
+}
+
+.redirigirTw{
+  border: none;
+  background-color: #15202B;
+  font-size: 12px;
+  color: #e5ebf1;
+}
+
+.redirigirTw:hover{
+  opacity: 0.5;
+}
+
+
+.buttones-reply{
+  display: flex;
+  flex-direction: row;
+
+}
+  
+.button-cancelar{
+  margin-left: 5px;
+}
+
+.botones-rt{
+  display: flex;
+  flex-direction: row;
+}
+
+
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+  
+
+
+
+

@@ -1,0 +1,31 @@
+.boxReplay{
+    background-color:  #15202B;
+    color:  #e5ebf1;
+    border-color: #293e53;
+    border-radius: 4px;
+    border-width: 1px;
+    max-width: 420px;
+    margin: 0 auto;
+    border-style: ridge;
+
+}
+
+.diseñoReplay{
+    background-color:rgb(15, 25, 34);
+}
+
+.bt-añadirReply{
+    margin-right: 10px;
+    margin-bottom: -10px;
+    
+}
+
+.bt-cerrar{
+    margin-right: 10px;
+    margin-bottom: -10px;
+}
+ 
+.botones-reply{
+    display: flex;
+    flex-direction: row;
+}

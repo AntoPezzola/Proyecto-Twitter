@@ -1,0 +1,103 @@
+.tweetDisplay{
+    background-color:rgb(15, 25, 34);
+    min-height: 100vh;
+}
+
+.tweetRtw {
+    margin: 20px auto;
+    padding: 60px;
+    width: 900px;
+    border-color: rgb(82, 39, 82);
+    margin-top: -350px;
+    margin-left: 250px;
+    margin-right: 200px;
+    display: inline-block;
+ }
+
+.buttons-tweet button{
+    margin: 5px;
+}
+
+.buttons {
+    margin-left: 30px;
+    width: 20%;
+    display: inline-block;
+    padding: 20px 20px auto;
+ }
+ 
+ .button-Perfil{
+    border: none;
+    background-color:rgb(21, 32, 43);
+    color: aliceblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 32px;
+    height: 48px;
+    width: 160px;
+    
+ }
+ 
+ .button-Perfil:hover{
+    opacity: 0.5;
+ }
+ 
+ 
+ .button-Logout{
+    border: none;
+    background-color:rgb(21, 32, 43);
+    color: aliceblue;
+    margin-left: 10px;
+    border-radius: 32px;
+    height: 48px;
+    width: 160px;
+ }
+ 
+ .button-Logout:hover{
+    opacity: 0.5;
+ }
+ 
+ .button-Logout img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+ 
+.button-Trending{
+    border: none;
+    background-color:rgb(21, 32, 43);
+    color: aliceblue;
+    margin-left: 10px;
+    border-radius: 32px;
+    height: 48px;
+    width: 160px;
+    margin: 10px
+  }
+ 
+.button-Trending:hover{
+    opacity: 0.5;
+  }
+ 
+.button-Trending img{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+ 
+.buttons-userHome{
+    display: flex;
+    flex-direction: column;
+  }
+ 
+ 
+.replaysTweet{
+   margin-top: -20px;
+   margin-left: -90px;
+   padding: 60px;
+   width: 1000px;
+   border-color: rgb(82, 39, 82);
+}
+
+.tweet{
+    margin-top: -140px;
+    margin-bottom: -60px;
+}
