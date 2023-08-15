@@ -1,3 +1,23 @@
+# Instrucciones de Configuración y Ejecución
+
+Este proyecto consta de tres partes: la API en Kotlin, la parte de React y la parte de React Native. Sigue los siguientes pasos para configurar y ejecutar cada una de ellas.
+
+## 1. API en Kotlin (IntelliJ IDEA)
+
+La API proporciona los datos necesarios para la parte de React y la parte de React Native. Para configurar y ejecutar la API en Kotlin usando IntelliJ IDEA, sigue estos pasos:
+
+1. Abre el proyecto en IntelliJ IDEA.
+
+2. Navega hasta la carpeta de la API en Kotlin en el panel de Proyecto.
+
+3. Configura la API:
+   - Crea un archivo llamado `application.properties` en la carpeta `src/main/resources/`. Completa las propiedades necesarias, como la configuración de la base de datos y las credenciales de la API de Twitter.
+
+4. Haz clic en el botón de ejecución para compilar y ejecutar la API.
+
+La API en Kotlin ahora está en funcionamiento y proporciona los datos necesarios para las partes de React y React Native.
+
+
 ## Instalación
 
 1. Asegúrate de tener Node.js instalado en tu sistema.
