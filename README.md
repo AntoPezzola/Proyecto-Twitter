@@ -10,10 +10,7 @@ La API proporciona los datos necesarios para la parte de React y la parte de Rea
 
 2. Navega hasta la carpeta de la API en Kotlin en el panel de Proyecto.
 
-3. Configura la API:
-   - Crea un archivo llamado `application.properties` en la carpeta `src/main/resources/`. Completa las propiedades necesarias, como la configuración de la base de datos y las credenciales de la API de Twitter.
-
-4. Haz clic en el botón de ejecución para compilar y ejecutar la API.
+3. Haz clic en el botón de ejecución para compilar y ejecutar la API.
 
 La API en Kotlin ahora está en funcionamiento y proporciona los datos necesarios para las partes de React y React Native.
 
